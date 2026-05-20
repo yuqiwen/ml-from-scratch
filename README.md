@@ -60,6 +60,7 @@ This keeps the structure predictable and easy to scale.
 ## Study Index
 
 - [Day 01: Linear Regression](days/day01-linear-regression/notes.md)
+- [Day 02: Multiple Linear Regression](days/day02_multiple_linear_regression/notes.md)
 
 ## Template For New Days
 
@@ -87,5 +88,5 @@ This repo is organized by day/topic instead of by file type because the main goa
 ## Current Status
 
 - Stage: ML fundamentals
-- Latest completed topic: Linear regression
+- Latest completed topic: Multiple linear regression
 - Next suggested topics: logistic regression, softmax, MLP, backpropagation
