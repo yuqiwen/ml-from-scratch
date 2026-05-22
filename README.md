@@ -62,6 +62,7 @@ This keeps the structure predictable and easy to scale.
 - [Day 01: Linear Regression](days/day01-linear-regression/notes.md)
 - [Day 02: Multiple Linear Regression](days/day02_multiple_linear_regression/notes.md)
 - [Day 03: Batch Training and SGD](days/day03_batch_training_and_sgd/notes.md)
+- [Day 04: Train / Validation / Test Split and Overfitting](days/day04_train_val_test_overfitting/notes.md)
 
 ## Template For New Days
 
@@ -89,5 +90,5 @@ This repo is organized by day/topic instead of by file type because the main goa
 ## Current Status
 
 - Stage: ML fundamentals
-- Latest completed topic: Batch training and SGD
+- Latest completed topic: Train / validation / test split and overfitting
 - Next suggested topics: logistic regression, softmax, MLP, backpropagation
