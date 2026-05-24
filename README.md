@@ -64,6 +64,7 @@ This keeps the structure predictable and easy to scale.
 - [Day 03: Batch Training and SGD](days/day03_batch_training_and_sgd/notes.md)
 - [Day 04: Train / Validation / Test Split and Overfitting](days/day04_train_val_test_overfitting/notes.md)
 - [Day 05: Logistic Regression](days/day05_logistic_regression/notes.md)
+- [Day 06: Optimizer and Regularization](days/day06_optimizer_regularization/notes.md)
 
 ## Template For New Days
 
@@ -91,5 +92,5 @@ This repo is organized by day/topic instead of by file type because the main goa
 ## Current Status
 
 - Stage: ML fundamentals
-- Latest completed topic: Logistic regression
-- Next suggested topics: logistic regression, softmax, MLP, backpropagation
+- Latest completed topic: Optimizer and regularization
+- Next suggested topics: softmax, cross-entropy, MLP, backpropagation
