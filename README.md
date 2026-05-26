@@ -66,6 +66,7 @@ This keeps the structure predictable and easy to scale.
 - [Day 05: Logistic Regression](days/day05_logistic_regression/notes.md)
 - [Day 06: Optimizer and Regularization](days/day06_optimizer_regularization/notes.md)
 - [Day 07: PyTorch Tensor and Autograd](days/day07_pytorch_tensor_autograd/notes.md)
+- [Day 08: PyTorch Training Loop](days/day08_pytorch_training_loop/notes.md)
 
 ## Template For New Days
 
@@ -93,5 +94,5 @@ This repo is organized by day/topic instead of by file type because the main goa
 ## Current Status
 
 - Stage: ML fundamentals
-- Latest completed topic: PyTorch tensor and autograd
-- Next suggested topics: softmax, cross-entropy, MLP, backpropagation, loss functions
+- Latest completed topic: PyTorch training loop
+- Next suggested topics: softmax, cross-entropy, loss functions, MLP, backpropagation
