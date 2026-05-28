@@ -68,6 +68,7 @@ This keeps the structure predictable and easy to scale.
 - [Day 07: PyTorch Tensor and Autograd](days/day07_pytorch_tensor_autograd/notes.md)
 - [Day 08: PyTorch Training Loop](days/day08_pytorch_training_loop/notes.md)
 - [Day 09: MLP / Neural Network Basics](days/day09_mlp_basics/notes.md)
+- [Day 10: Backpropagation from Scratch](days/day10_backpropagation_from_scratch/notes.md)
 
 ## Template For New Days
 
@@ -95,5 +96,5 @@ This repo is organized by day/topic instead of by file type because the main goa
 ## Current Status
 
 - Stage: ML fundamentals
-- Latest completed topic: MLP / neural network basics
-- Next suggested topics: softmax, cross-entropy, loss functions, backpropagation, deeper MLP training
+- Latest completed topic: Backpropagation from scratch
+- Next suggested topics: softmax, cross-entropy, loss functions, deeper MLP training, classification losses
