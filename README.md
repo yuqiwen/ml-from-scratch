@@ -70,6 +70,7 @@ This keeps the structure predictable and easy to scale.
 - [Day 09: MLP / Neural Network Basics](days/day09_mlp_basics/notes.md)
 - [Day 10: Backpropagation from Scratch](days/day10_backpropagation_from_scratch/notes.md)
 - [Day 11: PyTorch Optimizer Deep Dive](days/day11_optimizer_deep_dive/notes.md)
+- [Day 12: CNN Basics](days/day12_cnn_basics/notes.md)
 
 ## Template For New Days
 
@@ -97,5 +98,5 @@ This repo is organized by day/topic instead of by file type because the main goa
 ## Current Status
 
 - Stage: ML fundamentals
-- Latest completed topic: PyTorch optimizer deep dive
-- Next suggested topics: softmax, cross-entropy, loss functions, classification losses, deeper MLP training
+- Latest completed topic: CNN basics
+- Next suggested topics: softmax, cross-entropy, loss functions, classification losses, CNN training and vision pipelines
