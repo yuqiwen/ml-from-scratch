@@ -72,6 +72,7 @@ This keeps the structure predictable and easy to scale.
 - [Day 11: PyTorch Optimizer Deep Dive](days/day11_optimizer_deep_dive/notes.md)
 - [Day 12: CNN Basics](days/day12_cnn_basics/notes.md)
 - [Day 13: Transformer Basics](days/day13_transformer_basics/notes.md)
+- [Day 14: Multi-Head Attention from Scratch](days/day14_multi_head_attention/notes.md)
 
 ## Template For New Days
 
@@ -99,5 +100,5 @@ This repo is organized by day/topic instead of by file type because the main goa
 ## Current Status
 
 - Stage: ML fundamentals
-- Latest completed topic: Transformer basics
-- Next suggested topics: softmax, cross-entropy, classification losses, positional encoding, multi-head attention
+- Latest completed topic: Multi-head attention from scratch
+- Next suggested topics: positional encoding, transformer block, cross-entropy, causal masking, decoder-only attention
