@@ -74,6 +74,7 @@ This keeps the structure predictable and easy to scale.
 - [Day 13: Transformer Basics](days/day13_transformer_basics/notes.md)
 - [Day 14: Multi-Head Attention from Scratch](days/day14_multi_head_attention/notes.md)
 - [Day 15: Causal Mask and Autoregressive Attention](days/day15_causal_mask_attention/notes.md)
+- [Day 16: Transformer Block Basics](days/day16_transformer_block/notes.md)
 
 ## Template For New Days
 
@@ -101,5 +102,5 @@ This repo is organized by day/topic instead of by file type because the main goa
 ## Current Status
 
 - Stage: ML fundamentals
-- Latest completed topic: Causal mask and autoregressive attention
-- Next suggested topics: positional encoding, transformer block, decoder-only attention, cross-entropy, language modeling loss
+- Latest completed topic: Transformer block basics
+- Next suggested topics: positional encoding, decoder-only attention, cross-entropy, language modeling loss, stacked transformers
