@@ -76,6 +76,7 @@ This keeps the structure predictable and easy to scale.
 - [Day 15: Causal Mask and Autoregressive Attention](days/day15_causal_mask_attention/notes.md)
 - [Day 16: Transformer Block Basics](days/day16_transformer_block/notes.md)
 - [Day 17: Tiny GPT / Decoder-only Language Model Skeleton](days/day17_tiny_gpt/notes.md)
+- [Day 18: LLM Inference, Prefill, Decode, and KV Cache](days/day18_llm_inference_kv_cache/notes.md)
 
 ## Template For New Days
 
@@ -103,5 +104,5 @@ This repo is organized by day/topic instead of by file type because the main goa
 ## Current Status
 
 - Stage: ML fundamentals
-- Latest completed topic: Tiny GPT / decoder-only language model skeleton
-- Next suggested topics: tokenization, language modeling datasets, generation sampling, training loop for GPT, weight tying
+- Latest completed topic: LLM inference, prefill, decode, and KV cache
+- Next suggested topics: sampling strategies, tokenization, batching for serving, paged attention, speculative decoding
