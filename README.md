@@ -77,6 +77,7 @@ This keeps the structure predictable and easy to scale.
 - [Day 16: Transformer Block Basics](days/day16_transformer_block/notes.md)
 - [Day 17: Tiny GPT / Decoder-only Language Model Skeleton](days/day17_tiny_gpt/notes.md)
 - [Day 18: LLM Inference, Prefill, Decode, and KV Cache](days/day18_llm_inference_kv_cache/notes.md)
+- [Day 19: Checkpointing / Save and Resume Training](days/day19_checkpointing/notes.md)
 
 ## Template For New Days
 
@@ -104,5 +105,5 @@ This repo is organized by day/topic instead of by file type because the main goa
 ## Current Status
 
 - Stage: ML fundamentals
-- Latest completed topic: LLM inference, prefill, decode, and KV cache
-- Next suggested topics: sampling strategies, tokenization, batching for serving, paged attention, speculative decoding
+- Latest completed topic: Checkpointing / save and resume training
+- Next suggested topics: lr schedulers, mixed precision training, gradient accumulation, experiment tracking, distributed training basics
