@@ -78,6 +78,7 @@ This keeps the structure predictable and easy to scale.
 - [Day 17: Tiny GPT / Decoder-only Language Model Skeleton](days/day17_tiny_gpt/notes.md)
 - [Day 18: LLM Inference, Prefill, Decode, and KV Cache](days/day18_llm_inference_kv_cache/notes.md)
 - [Day 19: Checkpointing / Save and Resume Training](days/day19_checkpointing/notes.md)
+- [Day 20: Learning Rate Scheduler and Gradient Clipping](days/day20_scheduler_gradient_clipping/notes.md)
 
 ## Template For New Days
 
@@ -105,5 +106,5 @@ This repo is organized by day/topic instead of by file type because the main goa
 ## Current Status
 
 - Stage: ML fundamentals
-- Latest completed topic: Checkpointing / save and resume training
-- Next suggested topics: lr schedulers, mixed precision training, gradient accumulation, experiment tracking, distributed training basics
+- Latest completed topic: Learning rate scheduler and gradient clipping
+- Next suggested topics: warmup schedules, mixed precision training, gradient accumulation, experiment tracking, distributed training basics
