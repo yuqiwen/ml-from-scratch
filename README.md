@@ -80,6 +80,7 @@ This keeps the structure predictable and easy to scale.
 - [Day 19: Checkpointing / Save and Resume Training](days/day19_checkpointing/notes.md)
 - [Day 20: Learning Rate Scheduler and Gradient Clipping](days/day20_scheduler_gradient_clipping/notes.md)
 - [Day 21: Mixed Precision Training and AMP](days/day21_mixed_precision_amp/notes.md)
+- [Day 22: Batching and DataLoader Engineering](days/day22_dataloader_batching/notes.md)
 
 ## Template For New Days
 
@@ -107,5 +108,5 @@ This repo is organized by day/topic instead of by file type because the main goa
 ## Current Status
 
 - Stage: ML fundamentals
-- Latest completed topic: Mixed precision training and AMP
+- Latest completed topic: Batching and DataLoader engineering
 - Next suggested topics: gradient accumulation, experiment tracking, distributed training basics, data parallelism, FSDP or DDP
