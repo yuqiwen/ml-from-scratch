@@ -32,9 +32,9 @@ ml-from-scratch/
 
 This structure keeps each topic self-contained:
 
-- `notes.md`: concept summary, formulas, intuition, review checklist
-- `implementation.py`: from-scratch code
-- `test_implementation.py`: small runnable checks
+- `notes.md` or day `README.md`: concept summary, formulas, intuition, review checklist
+- `implementation.py` or small project scripts: runnable code for the topic
+- `test_implementation.py` or topic-specific tests: small runnable checks
 - `docs/`: repository-level study plan and workflow rules
 - `reviews/`: reusable review and reflection templates
 
@@ -81,6 +81,7 @@ This keeps the structure predictable and easy to scale.
 - [Day 20: Learning Rate Scheduler and Gradient Clipping](days/day20_scheduler_gradient_clipping/notes.md)
 - [Day 21: Mixed Precision Training and AMP](days/day21_mixed_precision_amp/notes.md)
 - [Day 22: Batching and DataLoader Engineering](days/day22_dataloader_batching/notes.md)
+- [Day 23: Model Serving Basics with FastAPI](days/day23_model_serving_fastapi/README.md)
 
 ## Template For New Days
 
@@ -108,5 +109,5 @@ This repo is organized by day/topic instead of by file type because the main goa
 ## Current Status
 
 - Stage: ML fundamentals
-- Latest completed topic: Batching and DataLoader engineering
-- Next suggested topics: gradient accumulation, experiment tracking, distributed training basics, data parallelism, FSDP or DDP
+- Latest completed topic: Model serving basics with FastAPI
+- Next suggested topics: experiment tracking, distributed training basics, data parallelism, FSDP or DDP, inference batching
