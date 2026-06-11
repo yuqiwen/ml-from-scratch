@@ -82,6 +82,7 @@ This keeps the structure predictable and easy to scale.
 - [Day 21: Mixed Precision Training and AMP](days/day21_mixed_precision_amp/notes.md)
 - [Day 22: Batching and DataLoader Engineering](days/day22_dataloader_batching/notes.md)
 - [Day 23: Model Serving Basics with FastAPI](days/day23_model_serving_fastapi/README.md)
+- [Day 24: Inference Benchmark, Latency, and Throughput](days/day24_inference_benchmark/notes.md)
 
 ## Template For New Days
 
@@ -109,5 +110,5 @@ This repo is organized by day/topic instead of by file type because the main goa
 ## Current Status
 
 - Stage: ML fundamentals
-- Latest completed topic: Model serving basics with FastAPI
-- Next suggested topics: experiment tracking, distributed training basics, data parallelism, FSDP or DDP, inference batching
+- Latest completed topic: Inference benchmark, latency, and throughput
+- Next suggested topics: experiment tracking, distributed training basics, inference batching, data parallelism, FSDP or DDP
