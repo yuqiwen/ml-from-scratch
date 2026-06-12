@@ -83,6 +83,7 @@ This keeps the structure predictable and easy to scale.
 - [Day 22: Batching and DataLoader Engineering](days/day22_dataloader_batching/notes.md)
 - [Day 23: Model Serving Basics with FastAPI](days/day23_model_serving_fastapi/README.md)
 - [Day 24: Inference Benchmark, Latency, and Throughput](days/day24_inference_benchmark/notes.md)
+- [Day 25: Dynamic Batching and Continuous Batching Basics](days/day25_dynamic_batching/notes.md)
 
 ## Template For New Days
 
@@ -110,5 +111,5 @@ This repo is organized by day/topic instead of by file type because the main goa
 ## Current Status
 
 - Stage: ML fundamentals
-- Latest completed topic: Inference benchmark, latency, and throughput
-- Next suggested topics: experiment tracking, distributed training basics, inference batching, data parallelism, FSDP or DDP
+- Latest completed topic: Dynamic batching and continuous batching basics
+- Next suggested topics: experiment tracking, distributed training basics, paged attention, data parallelism, FSDP or DDP
