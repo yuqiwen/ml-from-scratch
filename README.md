@@ -85,6 +85,7 @@ This keeps the structure predictable and easy to scale.
 - [Day 24: Inference Benchmark, Latency, and Throughput](days/day24_inference_benchmark/notes.md)
 - [Day 25: Dynamic Batching and Continuous Batching Basics](days/day25_dynamic_batching/notes.md)
 - [Day 26: Dockerize a FastAPI Model Serving Service](days/day26_docker_model_serving/README.md)
+- [Day 27: Model Serving Monitoring](days/day27_serving_monitoring/README.md)
 
 ## Template For New Days
 
@@ -112,5 +113,5 @@ This repo is organized by day/topic instead of by file type because the main goa
 ## Current Status
 
 - Stage: ML fundamentals
-- Latest completed topic: Dockerized model serving with FastAPI
+- Latest completed topic: Model serving monitoring
 - Next suggested topics: experiment tracking, distributed training basics, Kubernetes serving, paged attention, data parallelism
