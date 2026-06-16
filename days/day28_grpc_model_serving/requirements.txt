@@ -1,0 +1,4 @@
+torch
+grpcio
+grpcio-tools
+protobuf

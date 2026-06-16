@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+package modelserving;
+
+service ModelService {
+  rpc Predict(PredictRequest) returns (PredictResponse);
+
+  rpc Health(HealthRequest) returns (HealthResponse);
+}
+
+message PredictRequest {
+  repeated float features = 1;
+}
+
+message PredictResponse {
+  float prediction = 1;
+}
+
+message HealthRequest {
+}
+
+message HealthResponse {
+  string status = 1;
+  string device = 2;
+}
