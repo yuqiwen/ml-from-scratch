@@ -88,6 +88,7 @@ This keeps the structure predictable and easy to scale.
 - [Day 27: Model Serving Monitoring](days/day27_serving_monitoring/README.md)
 - [Day 28: gRPC Model Serving Basics](days/day28_grpc_model_serving/README.md)
 - [Day 29: Serving Concurrency, Backpressure, and Thread Safety](days/day29_serving_concurrency/README.md)
+- [Day 30: Model Versioning, Canary Deployment, and Rollback](days/day30_model_versioning/README.md)
 
 ## Template For New Days
 
@@ -115,5 +116,5 @@ This repo is organized by day/topic instead of by file type because the main goa
 ## Current Status
 
 - Stage: ML fundamentals
-- Latest completed topic: Serving concurrency, backpressure, and thread safety
+- Latest completed topic: Model versioning, canary deployment, and rollback
 - Next suggested topics: experiment tracking, distributed training basics, Kubernetes serving, paged attention, data parallelism
