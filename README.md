@@ -93,6 +93,7 @@ This keeps the structure predictable and easy to scale.
 - [Day 32: PSI, KS Statistic, and Distribution Drift Metrics](days/day32_distribution_drift_metrics/README.md)
 - [Day 33: Training-Serving Skew and Feature Consistency](days/day33_training_serving_skew/README.md)
 - [Day 34: Feature Store, Point-in-Time Join, and Feature Freshness](days/day34_feature_store_basics/README.md)
+- [Day 35: Online Inference, Batch Inference, and Two-Stage Recommendation](days/day35_online_vs_batch_inference/README.md)
 
 ## Template For New Days
 
@@ -120,5 +121,5 @@ This repo is organized by day/topic instead of by file type because the main goa
 ## Current Status
 
 - Stage: ML fundamentals
-- Latest completed topic: Feature store, point-in-time join, and feature freshness
-- Next suggested topics: experiment tracking, distributed training basics, Kubernetes serving, online/offline feature sync, data parallelism
+- Latest completed topic: Online inference, batch inference, and two-stage recommendation
+- Next suggested topics: experiment tracking, vector databases and ANN retrieval, stream features, online feature sync, distributed training basics
