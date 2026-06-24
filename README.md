@@ -95,6 +95,7 @@ This keeps the structure predictable and easy to scale.
 - [Day 34: Feature Store, Point-in-Time Join, and Feature Freshness](days/day34_feature_store_basics/README.md)
 - [Day 35: Online Inference, Batch Inference, and Two-Stage Recommendation](days/day35_online_vs_batch_inference/README.md)
 - [Day 36: Embedding Retrieval, Vector Search, and ANN Basics](days/day36_embedding_retrieval/README.md)
+- [Day 37: Two-Tower Retrieval Model](days/day37_two_tower_retrieval/README.md)
 
 ## Template For New Days
 
@@ -122,5 +123,5 @@ This repo is organized by day/topic instead of by file type because the main goa
 ## Current Status
 
 - Stage: ML fundamentals
-- Latest completed topic: Embedding retrieval, vector search, and ANN basics
-- Next suggested topics: vector databases, HNSW and IVF indexing, reranking after retrieval, stream features, experiment tracking
+- Latest completed topic: Two-tower retrieval model
+- Next suggested topics: hard negative mining, vector databases, HNSW and IVF indexing, reranking after retrieval, stream features
