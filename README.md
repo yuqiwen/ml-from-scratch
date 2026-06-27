@@ -97,6 +97,7 @@ This keeps the structure predictable and easy to scale.
 - [Day 36: Embedding Retrieval, Vector Search, and ANN Basics](days/day36_embedding_retrieval/README.md)
 - [Day 37: Two-Tower Retrieval Model](days/day37_two_tower_retrieval/README.md)
 - [Day 38: Hard Negative Mining and Negative Sampling](days/day38_negative_sampling/README.md)
+- [Day 39: Retrieval Evaluation Metrics](days/day39_retrieval_metrics/README.md)
 
 ## Template For New Days
 
@@ -124,5 +125,5 @@ This repo is organized by day/topic instead of by file type because the main goa
 ## Current Status
 
 - Stage: ML fundamentals
-- Latest completed topic: Hard negative mining and negative sampling
-- Next suggested topics: sampled softmax, hard negative refresh pipelines, vector databases, HNSW and IVF indexing, reranking after retrieval
+- Latest completed topic: Retrieval evaluation metrics
+- Next suggested topics: sampled softmax, hard negative refresh pipelines, vector databases, HNSW and IVF indexing, online retrieval evaluation
