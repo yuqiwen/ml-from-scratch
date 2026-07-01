@@ -98,6 +98,10 @@ This keeps the structure predictable and easy to scale.
 - [Day 37: Two-Tower Retrieval Model](days/day37_two_tower_retrieval/README.md)
 - [Day 38: Hard Negative Mining and Negative Sampling](days/day38_negative_sampling/README.md)
 - [Day 39: Retrieval Evaluation Metrics](days/day39_retrieval_metrics/README.md)
+- [Day 40: Learning to Rank](days/day40_learning_to_rank/README.md)
+- [Day 41: Position Bias and Inverse Propensity Weighting](days/day41_position_bias_ips/README.md)
+- [Day 42: Contextual Bandit and Exploration vs Exploitation](days/day42_contextual_bandit/README.md)
+- [Day 43: Upper Confidence Bound Bandit](days/day43_ucb_bandit/README.md)
 
 ## Template For New Days
 
@@ -125,5 +129,5 @@ This repo is organized by day/topic instead of by file type because the main goa
 ## Current Status
 
 - Stage: ML fundamentals
-- Latest completed topic: Retrieval evaluation metrics
-- Next suggested topics: sampled softmax, hard negative refresh pipelines, vector databases, HNSW and IVF indexing, online retrieval evaluation
+- Latest completed topic: Upper confidence bound bandit
+- Next suggested topics: Thompson sampling, LinUCB, sampled softmax, off-policy evaluation, online retrieval evaluation
